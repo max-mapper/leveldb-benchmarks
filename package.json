@@ -12,5 +12,13 @@
     "dat"
   ],
   "author": "max ogden",
-  "license": "BSD"
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/leveldb-benchmarks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/leveldb-benchmarks/issues"
+  },
+  "homepage": "https://github.com/maxogden/leveldb-benchmarks"
 }
