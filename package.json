@@ -1,0 +1,16 @@
+{
+  "name": "leveldb-benchmarks",
+  "version": "1.0.0",
+  "description": "a bunch of leveldb benchmarks and results (for node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "levelup",
+    "leveldb",
+    "dat"
+  ],
+  "author": "max ogden",
+  "license": "BSD"
+}
